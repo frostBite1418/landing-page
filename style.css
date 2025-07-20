@@ -175,12 +175,13 @@ h2 {
 }
 
 .call-action {
+    font-size: 25px;
     font-weight: bold;
 }
 
 .subtext {
     font-weight: lighter;
-    font-size: 5px;
+    font-size: 15px;
 }
 
 .section-four button {
