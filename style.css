@@ -124,3 +124,29 @@ h2 {
     color: #464646;
     font-style: 'Roboto', sans-serif;
 }
+
+/* section three - quote */
+.section-three {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    padding: 0 100px;
+    background-color: #E5E7EB;
+    color: #1F2937;
+}
+
+.quote {
+    margin: 0 auto;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.quote-attribution {
+    margin-top: 20px;
+    margin-left: auto;
+    font-weight: bold;
+    font-size: 20px;
+}
