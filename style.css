@@ -171,7 +171,7 @@ h2 {
     background-color: #3882F6;
     border: 3px solid #3882F6;
     border-radius: 12px;
-    flex: 1;
+    flex: 1 0 auto;
 }
 
 .call-action {
@@ -193,4 +193,15 @@ h2 {
     background-color: #3882F6;
     border-radius: 10px;
     font-weight: bold;
+    width: 200px;
+}
+
+/* Section five - footer */
+footer {
+    padding: 20px;
+    background-color: #1F2937;
+    color: #c7c7c7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
