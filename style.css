@@ -77,7 +77,7 @@ p {
 
 .image {
     width: 300px;
-    height: 200px;
+    height: auto;
     display: flex;
     flex: 1 0 auto;
     justify-content: center;
