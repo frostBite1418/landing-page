@@ -84,3 +84,30 @@ p {
     align-items: center;
     background-color: grey;
 }
+
+/* section 2 */
+.section-two {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-two .content {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.illustration {
+    height: 100px;
+    width: 100px;
+    border: 2px solid blue;
+}
+
+.illustration-text {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    text-align: center;
+}
